@@ -14,6 +14,8 @@ friendly user experience with instant visual updates and scaleable code in ecomm
 
 #### Features
 
+Will Lundgren was here!
+
 - Add and remove products from the floating cart
 - Sort products by highest to lowest and lowest to highest price
 - Filter products by available sizes
