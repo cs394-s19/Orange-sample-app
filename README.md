@@ -91,4 +91,4 @@ The MIT License (MIT). Please see License File for more information.
 </p>
 
 
-## LOOK! CHARLES JUST MADE SOME CHASNGES!
+## LOOK! CHARLES JUST MADE SOME CHANGES!
